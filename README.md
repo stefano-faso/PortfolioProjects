@@ -1,3 +1,4 @@
 # PortfolioProjects
-Data comes from https://ourworldindata.org/covid-deaths
-SQL code used to query Covid data that is used to produce data visualizations in Tabeau Public, link to dashboard in About section.
+This Repository contains many different data visualization projects using SQL, Python, and Tableau.
+Link to my Tableau page in the About section.
+All data used will be posted in the Data folder
